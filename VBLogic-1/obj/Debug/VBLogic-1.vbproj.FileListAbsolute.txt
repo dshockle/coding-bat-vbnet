@@ -1,0 +1,3 @@
+C:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBLogic-1\obj\Debug\VBLogic-1.vbprojResolveAssemblyReference.cache
+C:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBLogic-1\obj\Debug\VBLogic_1.Resources.resources
+C:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBLogic-1\obj\Debug\VBLogic-1.vbproj.GenerateResource.Cache

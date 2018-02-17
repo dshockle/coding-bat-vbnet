@@ -1,0 +1,10 @@
+c:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBCodingBat\obj\Debug\VBWarmup-1.vbprojResolveAssemblyReference.cache
+c:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBCodingBat\obj\Debug\VBCodingBat.Resources.resources
+c:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBCodingBat\obj\Debug\VBWarmup-1.vbproj.GenerateResource.Cache
+c:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBCodingBat\bin\Debug\VBCodingBat.exe.config
+c:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBCodingBat\bin\Debug\VBCodingBat.exe
+c:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBCodingBat\bin\Debug\VBCodingBat.pdb
+c:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBCodingBat\bin\Debug\VBCodingBat.xml
+c:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBCodingBat\obj\Debug\VBCodingBat.exe
+c:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBCodingBat\obj\Debug\VBCodingBat.xml
+c:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\VBCodingBat\VBCodingBat\obj\Debug\VBCodingBat.pdb
